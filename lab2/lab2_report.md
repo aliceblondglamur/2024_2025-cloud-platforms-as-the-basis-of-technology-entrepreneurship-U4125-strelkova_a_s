@@ -12,7 +12,7 @@ Date of finished:
 
 Перешли в раздел **Cloud Run** на Google Cloud Platform.  
 На странице отображаются все доступные сервисы.  
-Нажали на кнопку **Deploy container** для начала развертывания сервиса.
+Нажали на кнопку **Deploy container** для начала развертывания сервиса.  
 <img width="452" alt="Picture 1" src="https://github.com/user-attachments/assets/822b568c-d322-4292-a7cd-bedb4d66a4ea" />
 
 ## Шаг 2
