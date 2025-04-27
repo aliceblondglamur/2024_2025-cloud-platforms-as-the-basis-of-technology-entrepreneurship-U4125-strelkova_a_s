@@ -35,12 +35,35 @@ Date of finished:
 
 ## Шаг 4
 
-Убеждаемся что **Bucket** стал **Public**
+Убеждаемся что **Bucket** стал **Public**. 
 
 <img width="452" alt="шаг4" src="https://github.com/user-attachments/assets/d32eb5ad-832d-4a49-b681-ee3f8a087a74" />
 
 
 ## Шаг 5 
+
+Заходим в наш **Bucket** и выбираем нужный файл. Нажимаем на имя файла, чтобы открыть его.    
+
+<img width="452" alt="шаг5" src="https://github.com/user-attachments/assets/2298520b-3e9c-4923-821f-a7e029ab61ab" />
+
+
+## Шаг 6 
+Далее копируем **public URL** и проверяем, что файл доступен по ссылке в браузере.  
+
+<img width="452" alt="шаг6" src="https://github.com/user-attachments/assets/1ce44e50-5e92-40cc-b769-2694360a696a" />
+
+
+## Шаг 7 
+
+По ссылке открылась картинка.   
+
+<img width="451" alt="шаг7" src="https://github.com/user-attachments/assets/a930d4d5-7e2d-429f-937d-88c6d6271acb" />
+
+## Шаг 8 
+
+Удаляем Bucket.  
+<img width="452" alt="шаг9" src="https://github.com/user-attachments/assets/84339a12-99c5-4965-b3f2-175bf3f5e664" />
+
 
 
 
