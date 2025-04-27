@@ -9,13 +9,13 @@ Date of create: 27.04.2025
 Date of finished: 
 
 ## Шаг 1 
-В разделе IAM & Admin на вкладке Service Accounts создан новый сервисный аккаунт.
+В разделе IAM & Admin на вкладке Service Accounts создан новый сервисный аккаунт.  
 <img width="452" alt="Picture 1" src="https://github.com/user-attachments/assets/f315f157-3ef6-4f71-a321-df9591fa0ef7" />
 ## Шаг 2
-При создании задано название сервисного аккаунта **astrelkova-sa-lab1** в соответствии с маской, указанной в лабораторной работе. После этого выполнен переход к следующему этапу.
+При создании задано название сервисного аккаунта **astrelkova-sa-lab1** в соответствии с маской, указанной в лабораторной работе. После этого выполнен переход к следующему этапу.  
 <img width="452" alt="Picture 2" src="https://github.com/user-attachments/assets/6af78726-e613-4839-83c3-44c4fb8b36fd" />
 ## Шаг 3
-Для созданного сервисного аккаунта была назначена роль **Storage Admin**, которая предоставляет полный доступ к управлению объектами в хранилище.
+Для созданного сервисного аккаунта была назначена роль **Storage Admin**, которая предоставляет полный доступ к управлению объектами в хранилище.  
 <img width="452" alt="Picture 3" src="https://github.com/user-attachments/assets/9a930b3f-8624-483b-b412-e86e098bc811" />
 ## Шаг 4
 Переходим в раздел **Compute Engine** в консоли Google Cloud.  
@@ -27,14 +27,14 @@ Date of finished:
 Также был включён режим **Spot instance** для снижения стоимости использования.  
 **При создании виртуальной машины надо выбрать именно свой сервисный аккаунт.**  
  **Итоговая стоимость виртуальной машины составляет $3.44 в месяц** согласно расчётам в консоли Google Cloud.
-<img width="452" alt="Picture 5" src="https://github.com/user-attachments/assets/1c4e38f5-37d5-4d90-b37a-cf5d73ffe584" />
-<img width="452" alt="Picture 6" src="https://github.com/user-attachments/assets/4de5d456-8817-4ef7-b441-35a764a5b865" />
-<img width="452" alt="Picture 8" src="https://github.com/user-attachments/assets/a50cbeca-c118-4c4f-b523-5509ebd10007" />
-<img width="452" alt="Picture 7" src="https://github.com/user-attachments/assets/2ac33249-5992-4edb-aab8-fb9f8660b575" />
+<img width="452" alt="Picture 5" src="https://github.com/user-attachments/assets/1c4e38f5-37d5-4d90-b37a-cf5d73ffe584" />  
+<img width="452" alt="Picture 6" src="https://github.com/user-attachments/assets/4de5d456-8817-4ef7-b441-35a764a5b865" />  
+<img width="452" alt="Picture 8" src="https://github.com/user-attachments/assets/a50cbeca-c118-4c4f-b523-5509ebd10007" />  
+<img width="452" alt="Picture 7" src="https://github.com/user-attachments/assets/2ac33249-5992-4edb-aab8-fb9f8660b575" />  
 ## Шаг 6
 После успешного создания виртуальной машины выполнено подключение к ней через веб-интерфейс консоли Google Cloud.
 Для подключения использована функция **SSH**, встроенная в раздел **VM Instances**.
-Если подключение прошло успешно то открывается терминал для работы с командной строкой на виртуальной машине.
+Если подключение прошло успешно то открывается терминал для работы с командной строкой на виртуальной машине.  
 <img width="452" alt="Picture 9" src="https://github.com/user-attachments/assets/a232c276-41c5-465a-8bfd-5ebc52db8563" />
 ## Шаг 7
 В окне подключения через SSH выполнены команды для создания новой папки и копирования в неё необходимых файлов из бакета `lab1-bucket-itmo`. Все выполнено без ошибок. 
