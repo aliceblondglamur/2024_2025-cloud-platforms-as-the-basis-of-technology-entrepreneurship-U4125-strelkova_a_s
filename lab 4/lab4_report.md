@@ -16,6 +16,7 @@
 
 <img width="291" alt="image" src="https://github.com/user-attachments/assets/ad356380-c07e-40a8-acf2-6868623ed0b1" />
 <img width="291" alt="image" src="https://github.com/user-attachments/assets/6e70559e-7d3f-41c1-8de3-fde1cf25444c" />  
+ ![telegram-cloud-document-2-5246811497098671419](https://github.com/user-attachments/assets/fbbc4ca3-d2ed-4e74-a723-f650a947a20b)  
 
 
 
@@ -33,7 +34,12 @@
 - **Cloud Logging** — расширяем логирование, чтобы понимать поведение пользователей.
 - **AI** — улучшена интерпретация запросов и генерация раскладов.
 
-  
+<img width="294" alt="image" src="https://github.com/user-attachments/assets/35dabf68-0f3b-4e55-a44f-c64d7688703b" />  
+<img width="283" alt="image" src="https://github.com/user-attachments/assets/e9f6ab69-f699-4796-aba2-e14fad9484c2" />  
+![telegram-cloud-document-2-5246811497098671420](https://github.com/user-attachments/assets/91095a02-532b-42e4-8ee5-38813263a689)  
+
+
+
 
 ## Продакшн (боевой режим)
 
@@ -45,3 +51,10 @@
 - **Monitoring и Logging** — полноценно следят за системой.
 - **Storage / Firestore** — увеличиваются объёмы хранения.
 - **AI** — усовершенствованная обработка запросов и генерация интерпретаций с использованием более сложных моделей.
+
+<img width="306" alt="image" src="https://github.com/user-attachments/assets/2feaec71-4522-4326-a4d3-277ef1969b02" /> 
+<img width="317" alt="image" src="https://github.com/user-attachments/assets/77667e55-6502-4787-b4e3-d4600482fa79" />
+
+
+![telegram-cloud-document-2-5246811497098671421](https://github.com/user-attachments/assets/ac683430-0db2-4233-b3f7-9f6ef85d04ae)  
+
